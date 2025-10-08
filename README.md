@@ -23,7 +23,7 @@ Screenshot 04: _Token decoding step._
 
 Screenshot 05: _User assignment results._
 
-![Screenshot 2025-09-08 222838](screenshots/Screenshot%202025-09-08%20222838.png)
+![Screenshot 2025-09-08 222938](screenshots/Screenshot%202025-09-08%20222938.png)
 
 Screenshot 06: _Graph API `/me` call._
 
