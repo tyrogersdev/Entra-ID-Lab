@@ -1,44 +1,36 @@
-## Lab Evidence (Screenshots)
+# Lab Evidence (Screenshots)
 
-Below are the proof-of-work screenshots for the **Microsoft Entra ID – Access & ID Tokens Lab**.
+Below are the proof-of-work screenshots for the **Microsoft Entra ID – Access & ID Tokens Lab**.  
 Each image is referenced with a brief caption. Replace any placeholder text with your own notes as needed.
 
-![01-access-review-2-first-go.jpg](screenshots/01-access-review-2-first-go.png)
+![access review results](screenshots/access%20review%20results.png)
 
-Screenshot 01: _Describe what this screenshot shows (e.g., App registration page, redirect URI, token claims)_.
+Screenshot 01: _Access Review results page._
 
-![02-access-review-results.jpg](screenshots/02-access-review-results.png)
+![complete access review](screenshots/complete%20access%20review.png)
 
-Screenshot 02: _Describe what this screenshot shows (e.g., App registration page, redirect URI, token claims)_.
+Screenshot 02: _Completed Access Review confirmation._
 
-![03-active-pim.jpg](screenshots/03-active-pim.png)
+![PIM](screenshots/PIM.png)
 
-Screenshot 03: _Describe what this screenshot shows (e.g., App registration page, redirect URI, token claims)_.
+Screenshot 03: _Privileged Identity Management (PIM) overview._
 
-![04-complete-access-review.jpg](screenshots/04-complete-access-review.png)
+![Screenshot 2025-08-21 191935](screenshots/Screenshot%202025-08-21%20191935.png)
 
-Screenshot 04: _Describe what this screenshot shows (e.g., App registration page, redirect URI, token claims)_.
+Screenshot 04: _Token decoding step._
 
-![05-pim.jpg](screenshots/05-pim.png)
+![Screenshot 2025-08-21 192113](screenshots/Screenshot%202025-08-21%20192113.png)
 
-Screenshot 05: _Describe what this screenshot shows (e.g., App registration page, redirect URI, token claims)_.
+Screenshot 05: _User assignment results._
 
-![06-screenshot-2025-08-21-191935.jpg](screenshots/06-screenshot-2025-08-21-191935.png)
+![Screenshot 2025-09-08 222838](screenshots/Screenshot%202025-09-08%20222838.png)
 
-Screenshot 06: _Describe what this screenshot shows (e.g., App registration page, redirect URI, token claims)_.
+Screenshot 06: _Graph API `/me` call._
 
-![07-screenshot-2025-08-21-192113.jpg](screenshots/07-screenshot-2025-08-21-192113.png)
+![Screenshot 2025-09-09 171841](screenshots/Screenshot%202025-09-09%20171841.png)
 
-Screenshot 07: _Describe what this screenshot shows (e.g., App registration page, redirect URI, token claims)_.
+Screenshot 07: _Role activation confirmation._
 
-![08-screenshot-2025-08-21-193910.jpg](screenshots/08-screenshot-2025-08-21-193910.png)
+![Screenshot 2025-09-11 182549](screenshots/Screenshot%202025-09-11%20182549.png)
 
-Screenshot 08: _Describe what this screenshot shows (e.g., App registration page, redirect URI, token claims)_.
-
-![09-screenshot-2025-09-09-173755.jpg](screenshots/09-screenshot-2025-09-09-173755.png)
-
-Screenshot 09: _Describe what this screenshot shows (e.g., App registration page, redirect URI, token claims)_.
-
-![10-screenshot-2025-09-11-175539.jpg](screenshots/10-screenshot-2025-09-11-175539.png)
-
-Screenshot 10: _Describe what this screenshot shows (e.g., App registration page, redirect URI, token claims)_.
+Screenshot 08: _Final access token validation._
