@@ -15,7 +15,7 @@ Screenshot 02: _Describe what this screenshot shows (e.g., App registration page
 
 Screenshot 03: _Describe what this screenshot shows (e.g., App registration page, redirect URI, token claims)_.
 
-![04-complete-access-review.jpg](screenshots/04-complete-access-review.jpng)
+![04-complete-access-review.jpg](screenshots/04-complete-access-review.png)
 
 Screenshot 04: _Describe what this screenshot shows (e.g., App registration page, redirect URI, token claims)_.
 
