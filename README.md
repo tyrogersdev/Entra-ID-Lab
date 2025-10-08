@@ -7,7 +7,7 @@ Each image is referenced with a brief caption. Replace any placeholder text with
 
 Screenshot 01: _Access Review results page._
 
-![complete access review](screenshots/complete%20access%20review.png)
+![complete access review](screenshots/complete-access-review.png)
 
 Screenshot 02: _Completed Access Review confirmation._
 
