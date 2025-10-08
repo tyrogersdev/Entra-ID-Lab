@@ -3,7 +3,7 @@
 Below are the proof-of-work screenshots for the **Microsoft Entra ID – Access & ID Tokens Lab**.  
 Each image is referenced with a brief caption. Replace any placeholder text with your own notes as needed.
 
-![access review results](screenshots/access%20review%20results.png)
+![access review results](screenshots/access-review-results.png)
 
 Screenshot 01: _Access Review results page._
 
